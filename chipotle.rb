@@ -1,5 +1,4 @@
-#Your at Chipotle where you are given 
-
+#The menu board at Chipotle Reads: 
 main = {
 	style: ["burrito", "bowl", "crispy corn tacos", "soft corn tacos", "soft flour tacos", "salad"],
 	meat: ["steak", "carnitas", "chicken", "barbacoa", "sofritas"],
@@ -11,13 +10,14 @@ main = {
 my_order = {}
 
 
-#INSTRUCTIONS:
+####### INSTRUCTIONS: ###########
 	#Use methods to add create your order, you can only call items from the main hash to them to the my_order hash- You should not be writing any strings unless you do the bonus. 
 
 	#By end it should look something like: 
 		#my_order = { style: "burrito", meat: "chicken", rice_bean_veg: ["cilantro-lime brown rice", "black beans"], toppings: ["guacamole", "cheese", "romaine lettuce"]}
 
 
+#########  LETS GO!  ##########
 
 #STEP ONE:
 #you are in line at chipotle and what to know what different styles they have
@@ -41,6 +41,12 @@ my_order = {}
 #STEP FIVE
 #Chose at least 3 toppings to add to your order
 #Create a new key value pair
+
+
+#STEP SIX
+#Print your array and see if your order was made correctly! Bon Appetit! 
+
+
 
 
 
