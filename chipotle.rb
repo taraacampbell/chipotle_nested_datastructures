@@ -9,8 +9,6 @@ main = {
 #This line should not be changed, it is the starting hash for your order! 
 my_order = {}
 
-my_order[:meat] = main[:meat][0]
-print my_order
 
 ####### INSTRUCTIONS: ###########
 	#Use methods to add create your order, you can only call items from the main hash to them to the my_order hash- You should not be writing any strings unless you do the bonus. 
@@ -48,18 +46,22 @@ print my_order
 
 
 #STEP SEVEN
-	#Print your array and see if your order was made correctly! Bon Appetit! 
+	#Print your hash and see if your order was made correctly! Bon Appetit! 
 
 
 
 
 
-####BONUS!#######
+#### BONUS! #######
 	#Display your order in a sentence
 		#This will be challenging when it comes to working with your multiple choices for toppings
 
 	#Example: "Can I please have a burrito. For meat, I would like chicken with cilantro-lime white rice and black beans. Then I would like sour cream, cheese and roasted-corn salsa as my toppings. Thank you!"
 
+
+
+#### EXTRA BONUS #####
+	#Make this into a command line application that allows the user to input their order 
 
 
 	
