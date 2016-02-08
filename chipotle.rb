@@ -44,15 +44,18 @@ my_order = {}
 #STEP SIX
 	#Chose at least 3 toppings to add to your order
 
-
 #STEP SEVEN
+	#Oops! You didn't want one of those toppings! How do you remove the second one you put in there?
+
+
+#STEP EIGHT
 	#Print your hash and see if your order was made correctly! Bon Appetit! 
 
 
 
 
 
-#### BONUS! #######
+#### BONUS 1 #######
 	#Display your order in a sentence
 		#This will be challenging when it comes to working with your multiple choices for toppings
 
@@ -60,8 +63,12 @@ my_order = {}
 
 
 
-#### EXTRA BONUS #####
+#### BONUS 2 #####
 	#Make this into a command line application that allows the user to input their order 
+
+
+#### BONUS 3 ######
+	#Experiment with more ways of nesting data structures by having my_order contain both the main, sides, a drink and dessert. How would you restructure my_order to accomodate for that? 
 
 
 	
